@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "compatibilityLevel": "JAVA_8",
+  "package": "cn.enaium.foxbase.mixins",
+  "refmap": "mixins.foxbase.refmap.json",
+  "mixins": [
+    "EntityPlayerSPMixin",
+    "EntityRenderMixin",
+    "GuiIngameMixin",
+    "MinecraftMixin"
+  ]
+}
